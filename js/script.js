@@ -3,7 +3,7 @@ jQuery(function ($){
 
 	// Scroll To Internal Links
 	$('#masthead nav').localScroll({
-		offset: { top: -95 }
+		offset: { top: -100 }
 	});
 	
 	// Freeze Nav Bar at Top
